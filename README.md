@@ -1,2 +1,15 @@
 # install-tesseract-ocr
 installation script to install resseract-ocr for ubuntu
+
+usage:
+
+for tamil text
+
+tesseract test.jpg outputfilename -l tam
+
+
+for english text
+
+tesseract test.jpg outputfilename -l tam
+
+you can also use python wrapper named pyocr to automate the process.
