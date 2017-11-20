@@ -10,6 +10,6 @@ tesseract test.jpg outputfilename -l tam
 
 for english text
 
-tesseract test.jpg outputfilename -l tam
+tesseract test.jpg outputfilename -l eng
 
 you can also use python wrapper named pyocr to automate the process.
