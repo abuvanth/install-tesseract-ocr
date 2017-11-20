@@ -1,5 +1,5 @@
 # install-tesseract-ocr
-installation script to install resseract-ocr for ubuntu
+installation script to compile and install resseract-ocr for ubuntu
 
 usage:
 
