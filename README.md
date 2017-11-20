@@ -13,3 +13,5 @@ for english text
 tesseract test.jpg outputfilename -l eng
 
 you can also use python wrapper named pyocr to automate the process.
+
+https://github.com/openpaperwork/pyocr
