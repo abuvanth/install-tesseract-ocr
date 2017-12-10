@@ -1,6 +1,8 @@
 # install-tesseract-ocr
 installation script to install resseract-ocr for ubuntu
 
+bash install-tesseract-ocr.sh
+
 usage:
 
 for tamil text
