@@ -19,3 +19,6 @@ demo video-https://www.youtube.com/watch?v=-Pqw6MpDhYk
 you can also use python wrapper named pyocr to automate the process.
 
 https://github.com/openpaperwork/pyocr
+
+
+Docker image also available -https://github.com/abuvanth/docker-image-tesseract-ocr-tamil
